@@ -1,26 +1,38 @@
-# NASQ Project Solutions — GitHub Pages
+# NASQ Project Solutions | نَسَق لحلول المشروعات
 
-This folder is a standalone static copy of the NASQ Project Solutions website. It does not require Node.js, a build command, or paid hosting.
+**Remote Document Control & Technical Office Support**
 
-## Publish on GitHub Pages
+NASQ Project Solutions is founded by [Eslam Reda Abdelrahman](https://eslam-reda-dc.github.io/), a Senior Document Controller supporting construction and real estate projects across Egypt and Saudi Arabia.
 
-1. Create a new public GitHub repository.
-2. Upload `index.html`, `styles.css`, and `script.js` to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select the `main` branch and `/ (root)`, then click **Save**.
-6. GitHub will provide a public URL in the format `https://USERNAME.github.io/REPOSITORY/`.
+## Professional Services
 
-## Request form
+### Document Control
 
-The form sends directly through Formspree using endpoint `https://formspree.io/f/mbgrybvl`. The Formspree account controls the actual destination inbox. The website classifies the request in the email subject and includes the NASQ main contact field.
+Project documentation procedures, document coding systems, master registers, technical submissions, revision control, document tracking, electronic archiving, management reporting, dashboards and project handover.
 
-## Main contact
+### Technical Office Support
 
-`eslamreda.mrz@gmail.com`
+Architectural and structural shop drawings, drawing coordination, as-built drawings, quantity surveying, bills of quantities and remote technical office support.
 
-## Important
+### Integrated Project Support
 
-- Keep all three website files together in the repository root.
-- Do not rename `index.html`.
-- No electronic archiving service is included. Archiving mentioned inside Document Control means organizing project handover records only.
+Drawing preparation, internal review, document coding, submission, comment follow-up, revision control, approval and organized project handover.
+
+## Team and Delivery
+
+NASQ works with a flexible remote team of document control professionals and technical office engineers, including senior team members with individual leadership and technical experience exceeding 20 years.
+
+## Links
+
+- [NASQ Project Solutions website](https://eslam-reda-dc.github.io/nasq-project-solutions/)
+- [Founder professional portfolio](https://eslam-reda-dc.github.io/)
+- [Eslam Reda Abdelrahman on LinkedIn](https://www.linkedin.com/in/eslam-reda-576320172/)
+
+## Contact
+
+Email: eslamreda.mrz@gmail.com  
+WhatsApp: +20 111 168 7891
+
+## Technical Notes
+
+This project is published with GitHub Pages as a static bilingual website. The project requires `index.html`, `styles.css` and `script.js`. Request submissions use the existing Formspree endpoint.
