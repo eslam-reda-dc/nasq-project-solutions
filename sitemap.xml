@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://eslam-reda-dc.github.io/nasq-project-solutions/</loc>
-    <lastmod>2026-08-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/</loc><lastmod>2026-08-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/services/document-control/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/services/technical-office/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/services/shop-drawings/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/services/quantity-surveying/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/services/remote-document-control/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/services/project-handover/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/markets/saudi-arabia/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/markets/egypt/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/cases/multi-project-document-control/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/cases/remote-saudi-document-support/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/cases/document-backlog-recovery/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/cases/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/insights/document-coding-system/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/insights/ir-mir-rfi-tracking/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/insights/consultant-response-time/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/insights/revision-control-mistakes/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/insights/project-handover-checklist/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/insights/document-controller-management-report/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/insights/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/tools/document-control-health-check/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/tools/scope-estimator/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/tools/dashboard-demo/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/resources/company-profile/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/resources/proposal-template/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://eslam-reda-dc.github.io/nasq-project-solutions/resources/</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
