@@ -1,0 +1,45 @@
+.audience .shell {
+  align-items: flex-start;
+}
+
+.audience .shell > div {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.audience .market-group {
+  background: #fff;
+  border: 1px solid var(--line);
+  padding: 11px 13px;
+  border-radius: 14px;
+  font-size: 13px;
+}
+
+.audience .market-group strong {
+  display: block;
+  color: var(--ink);
+  font-size: 13px;
+  margin-bottom: 4px;
+}
+
+.audience .market-group small {
+  display: block;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.55;
+}
+
+@media (max-width: 950px) {
+  .audience .shell > div {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 580px) {
+  .audience .shell > div {
+    grid-template-columns: 1fr;
+    width: 100%;
+  }
+}
